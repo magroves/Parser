@@ -3,7 +3,7 @@
 To compile on Linux / macOS:  
 `gcc -std=c99 -o Analyzer.out Givens.c Parser.c Tokenizer.c Analyzer.c`  
   
-Then run: ./Analyzer.out <TokenTest0.txt>  
+Then run: `./Analyzer.out <TokenTest0.txt>`    
 to run test given test file.  
   
 ### How it works  
